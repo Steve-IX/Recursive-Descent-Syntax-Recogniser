@@ -1,0 +1,36 @@
+Compilation Exception
+	Caused by Error while parsing <StatementPart>
+	Caused by SYNTAX ERROR on line 2: Expected token begin but found IDENTIFIER (Encountered token: IDENTIFIER 'begim')
+
+Compilation Exception
+	Caused by Error while parsing <StatementPart>
+	Caused by Error while parsing <StatementList>
+	Caused by Error while parsing <Statement>
+	Caused by Error while parsing <IfStatement>
+	Caused by SYNTAX ERROR on line 12: Expected token if but found EOF (Encountered token: EOF '')
+
+Compilation Exception
+	Caused by Error while parsing <StatementPart>
+	Caused by Error while parsing <StatementList>
+	Caused by Error while parsing <Statement>
+	Caused by Error while parsing <WhileStatement>
+	Caused by Error while parsing <StatementList>
+	Caused by Error while parsing <Statement>
+	Caused by SYNTAX ERROR on line 8: Invalid start of <Statement>; expecting identifier, if, while, call, do, or for (Encountered token: end 'end')
+
+Compilation Exception
+	Caused by Error while parsing <StatementPart>
+	Caused by Error while parsing <StatementList>
+	Caused by Error while parsing <Statement>
+	Caused by Error while parsing <WhileStatement>
+	Caused by SYNTAX ERROR on line 8: Expected token loop but found ; (Encountered token: ; ';')
+
+Compilation Exception
+	Caused by Error while parsing <StatementPart>
+	Caused by Error while parsing <StatementList>
+	Caused by Error while parsing <Statement>
+	Caused by SYNTAX ERROR on line 5: Invalid start of <Statement>; expecting identifier, if, while, call, do, or for (Encountered token: else 'else')
+
+Compilation Exception
+	Caused by SYNTAX ERROR on line 13: Expected token EOF but found call (Encountered token: call 'call')
+
