@@ -25,8 +25,3 @@ execute.bat   REM run parser over test programs
 Successful parses end with `reportSuccess()`. On the first syntax error the analyser halts and prints a detailed message showing the unexpected token, its line number, and the non-terminal in which it occurred.&#x20;
 
 ---
-
-> **Why this repo?**
-> It serves as a compact reference for building LL(1) parsers by hand, illustrating clean error handling and trace generation without resorting to parser generators.
-
-Feel free to fork, experiment with new grammar rules, or plug in your own test cases.
