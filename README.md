@@ -1,4 +1,4 @@
-### Recursive-Descent Syntax Analyser (SCC312 Compilers CW)
+### Recursive-Descent Syntax Analyser 
 
 A lightweight Java project that implements the **syntax-analysis phase of a tiny Ada-like language compiler**.
 It uses a hand-written recursive-descent parser to recognise the grammar supplied in the coursework brief and reports the **first syntax error with contextual, line-accurate messages**.&#x20;
